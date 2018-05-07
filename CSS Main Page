@@ -1,0 +1,247 @@
+body{
+  
+    margin:2px;
+    background-color:#A3FFE9;
+    width: auto;
+    height: 1200;
+    overflow: scroll;
+    
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300px;
+    text-align: center;
+    padding-top: 20px;
+    font-size:45px;
+    color: darkslateblue;
+    
+}
+
+.topnav{
+
+    text-align: right;
+    padding-right: 75px;
+    color: white;
+    padding-top: 20px;
+    
+}
+
+.topnav a{
+    color: white;
+    text-align: right;
+    font-size: 18px;
+    font-family: 'AmaticSC-Regular';
+}
+
+#pageintro{
+    background-color: orchid;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 24px;
+}
+
+.pageintrogrid{
+    display: grid;
+    grid-template-areas: 'pagedescription about';
+    grid-auto-columns: repeat(3, 1fr);
+    grid-row: 1;
+    grid-column-gap: 2px;
+    width:auto;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+    min-height: 0;
+    min-width: 0;
+    
+}
+
+#pagedescription{
+    background-color: mediumpurple;
+    color: white;
+    text-align: center;
+}
+
+#about{
+    background-color: yellowgreen;
+    color: white;
+    text-align: center;
+}
+
+#help{
+    background-color: deepskyblue;
+    color: white;
+    text-align: center;
+}
+
+#other{
+    background-color:lightsalmon;
+    color:white;
+}
+
+.pagetitle{
+    height: 430px;
+    width: auto;
+    background-image: url(MIND%20MATTERZ2.jpg);
+    opacity: 20%;
+    background-position: center;
+    background-size: 100% 100%;
+    border: 6px solid yellowgreen;
+    padding: 5px;
+    margin: 5%;
+    max-width: 1100px;
+    position: relative;
+    
+    
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    object-fit: cover;
+    color: white;
+    border: 10px;
+    padding: 20px;
+}
+
+div header {
+    background-image: url(MIND%20MATTERZ2.jpg);
+    width: auto;
+}
+
+.gallery-item .image{
+    height: 90%;
+    width:100%;
+    display: fill;
+    
+}
+
+.gallery{
+    display: inline-flex;
+    flex-wrap: wrap;
+    background-color: #A3FFE9;
+    border-spacing: 2px;
+    padding: 2px;
+    margin-left: 30px;
+    margin-right: 20px;
+    
+    
+}
+
+.gallery-item{
+    margin: 5px;
+    max-height: 350px;
+    max-width: 400px;
+    padding: 5px;
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    border: 2px solid yellowgreen;
+    background-color: white;
+    
+}
+
+.gallery-item:hover .description {
+    height: 75%;
+    width: 93%;
+    position: absolute;
+    z-index: 1;
+    opacity: 0.85;
+    background-color: lavender;
+    top: 15%;
+    bottom: 25%;
+    left: 0;
+    right: 0;
+    
+    
+}
+
+.description{
+    font-family: 'Raleway', sans-serif;
+    font-size: 19px;
+    width: 100%;
+    height: 100%;
+    color: navy;
+    margin: 15px;
+    font-weight: 430;
+    line-height: 1.5;
+    
+}
+  
+h2{
+    font-family: 'Raleway', sans-serif;
+    color: deepskyblue;
+    display: cover;
+    text-align: center;
+    
+    
+}
+
+h3{
+    color: indigo;
+    font-family: 'Raleway', sans-serif;
+}
+
+.image{
+    
+}
+
+.gallery-itemA{
+    color: black;
+    
+}
+
+a:link {
+    color:white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover{
+    color: white;
+}
+
+a:active{
+    color: white;
+}
+
+#daisy{
+    background-color: salmon;
+    max-width: 150px; 
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    
+}
+
+#resources{
+    display: inline-flex;
+    flex-wrap: wrap;
+    padding: 20px;
+      
+}
+
+#AboutMM{
+    color: black;
+    font-size: 20px;
+}
+
+#MHResources {
+    color: black;
+    max-height: 300px;
+    max-width: 300px;
+    
+}
+
+.MHResources {
+    display: inline-flex;
+    flex-wrap: wrap;
+    
+}
