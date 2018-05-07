@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MindMatterz</title>
+	
+	<link rel="stylesheet" type="text/css" href="MindMatterzBrackets2.css">
+    
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Coming+Soon" type="text/css" rel="MindmatterzBrackets2.css">
+</head>
+<body>
+	
+    <div class="topnav">
+    <a href="MindMatterzBrackets2.html" style="color: white; font-family: 'Raleway', sans-serif; font-weight: 100; margin: 10px" ;>Home</a>
+    <a href="HomePage.html" style="color:white; font-family: 'Raleway', sans-serif; font-weight: 100";>About</a>
+    </div>
+    
+    <header>
+    <h1 class="pagetitle"> </h1>
+    
+        <div class="pageintro">
+        <p id="pageintro">Making Matterz of the Mind simple to understand because your Mind Matterz!
+        </p>
+        </div>
+        
+        <div class="pageintrogrid">
+        
+         <div class="pageintrogrid" id="pagedescription">
+        
+            
+            <p id="pagedescription"><a href="HomePage.html">About MindMatterz</a></p>
+        </div>
+        
+        <div class="pageintrogrid" id="about">
+            
+            <p id="about"><a href="Resources.html">Teacher Resources</a></p>
+        </div>
+        
+        <div class="pageintrogrid" id="help">
+        
+            <p id="help"><a href="MHResources.html">Mental Health Resouces</a></p>
+        </div>
+        
+    </div>
+    </header>
+
+    <div class="MHResources">
+        
+        <div class="Resource1">
+        <p id="MHResources" style="color: white;">Youth Suicide Hotline</p>
+        
+        <a href="https://suicidepreventionlifeline.org/help-yourself/youth/"Suicide target="_blank">
+        <img src="NSPL_Logo.jpg" style="max-width: 250px;max-height: 250px;padding: 20px; margin: 20px; border: 2px solid white"> 
+        </a>
+    </div>
+        
+        <div class="Resource2">
+        <p id="MHResources" style="color: white;">LGBTQ+ Suicide Hotline</p>
+        
+        <a href="https://suicidepreventionlifeline.org/help-yourself/lgbtq/"Suicide target="_blank">
+        <img src="NSPL_Logo.jpg" style="max-width: 250px;max-height: 250px;padding: 20px; margin: 20px; border: 2px solid white">
+        
+        </a>
+        </div> 
+    
+    </div>
+   <div footer="footer">
+    <img src="Footer.png" style="width: 25%; height: 25%;">
+    
+    </div>  
+    
+    
+</body>
+</html>
