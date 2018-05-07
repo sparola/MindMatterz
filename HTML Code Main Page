@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MindMatterz</title>
+	
+	<link rel="stylesheet" type="text/css" href="MindMatterzBrackets2.css">
+    
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Coming+Soon" type="text/css" rel="MindmatterzBrackets2.css">
+</head>
+<body>
+	
+    <div class="topnav">
+    <a href="MindMatterzBrackets2.html" style="color: white; font-family: 'Raleway', sans-serif; font-weight: 100; margin: 10px" ;>Home</a>
+    <a href="HomePage.html" style="color:white; font-family: 'Raleway', sans-serif; font-weight: 100";>About</a>
+    </div>
+    
+    <header>
+    <h1 class="pagetitle" style="align-content: center; object-position: center"> </h1>
+    
+        <div class="pageintro">
+        <p id="pageintro"> Making Matterz of the Mind simple to understand because your Mind Matterz!
+        </p>
+        </div>
+        
+        <div class="pageintrogrid">
+        
+        <div class="pageintrogrid" id="pagedescription">
+        
+            
+            <p id="pagedescription"><a href="HomePage.html">About MindMatterz</a></p>
+        </div>
+        
+        <div class="pageintrogrid" id="about">
+            
+            <p id="about"><a href="Resources.html">Teacher Resources</a></p>
+        </div>
+        
+        <div class="pageintrogrid" id="help">
+        
+            <p id="help"><a href="MHResources.html">Mental Health Resouces</a></p>
+        </div>
+       
+        
+    </div>
+    </header>
+
+    <div class="gallery">  
+   
+    <div class="gallery-item">
+        
+        <h2>A is for Anxiety</h2>
+        <img class="image" src="Anxious.png">
+            
+        <div class ="description">    
+            <h3>Anxiety is:</h3>
+            <ul>
+            <li>Feeling nervous some or all of the time</li>
+            <li>Feeling worried about things you can't control</li>
+            <li>Avoiding certain situations because they seem stressful</li>
+            </ul>
+            
+           
+        </div>
+        </div>
+    
+    <div class="gallery-item">    
+            <h2>B is for Bipolar</h2>
+        <img class="image" src="B.jpg">
+            
+            <div class="description">
+                <h3>Bipolar Disorder is:</h3>
+            <ul>
+            <li> Serious and significant changes in mood</li>
+            <li> Periods of happy and energetic mood followed 
+                by period of sad and depressed mood</li>    
+            
+            </ul>
+            </div>    
+        </div>    
+        
+        
+    <div class="gallery-item">
+        
+            <h2>C is for Crying</h2>
+            <img class="image" src="C.jpg">
+            <div class="description">
+            <h3>Crying is:</h3>
+            <ul>
+                <li>Crying is normal and good for you!</li>
+                <li>It is important to cry, as it helps regulate your emotions</li>
+                <li>Nonstop crying may indicate a deeper problem</li>
+
+            </ul>
+
+            
+        </div>
+        </div>
+        
+    <div class="gallery-item">
+        
+            <h2>D is for Depression</h2>
+            <img class="image" src="D.jpg">
+            <div class="description">
+            <h3>Depression is:</h3>
+            <ul>
+                <li>Feeling sad, hopeless or worthless for a long period of time</li>
+                <li>Consistently low energy, may affect schoolwork and relationships</li>
+                
+                </ul>
+            
+            
+        </div>
+        </div>
+        
+    <div class="gallery-item">
+        
+          <h2>E is for Eating Alone</h2>  
+        <img class="image" src="E2.jpg">
+        <div class="description">
+            <h3>Eating Alone is:</h3>
+            <ul>
+                <li>May indicate feeling of lonliness</li>
+                <li>May be a cry for help</li>
+                
+                </ul>
+            
+        </div>    
+        </div>    
+      
+     <div class="gallery-item">
+        
+        <h2>F is for Feelings</h2>
+         <img class="image" src="F.jpg">
+            <div class="description">
+             <h3>Feelings are:</h3>
+             <ul>
+                 <li>A normal part of life</li>
+                 <li>Always changing!</li>
+                 <li>OK if your feelings change from time to time!</li>
+                
+                 </ul>
+    
+         </div>
+        </div>   
+        
+     <div class="gallery-item">
+    
+         <h2>G is for Grief</h2>
+         <img class="image" src="G.jpg">
+         <div class="description">
+             <h3>Grief is:</h3>
+             <ul> 
+                 <li> When you experience loss of a loved one</li>
+                 <li>A feeling of sadness when you go 
+                     through a tough experience</li>     
+                </ul>
+             
+         </div>
+        </div>   
+        
+     <div class="gallery-item">
+        
+        <h2>H is for Hopeless</h2>
+         <img class="image" src="H.jpg">
+         <div class="description">
+             <h3>Hopeless is feeling:</h3>
+             
+             <ul>
+                <li>Like there is no point to your efforts</li>
+                 <li>A little 'down' or bummed</li>
+                 <li>Can be an indicator of a larger problem</li>
+             
+             </ul>
+                 
+         </div>     
+        </div>   
+        
+     <div class="gallery-item">
+        
+             <h2>I is for Illness</h2>
+            <img class="image" src="I.jpg">
+                <div class="description">
+                <h3>Illnesses are:</h3>
+             
+             <ul>
+                 <li>A condition that keeps your mind and/or body from
+                 working how it normally would!</li>
+                 <li>Everyone has mental or physical illnesses at some point in their life!</li>
+                 
+                 </ul>
+             
+             
+             
+         </div>
+        </div>   
+        
+     <div class="gallery-item">
+        
+       <h2>J is for Just Because</h2>
+         <img class="image" src="J.jpg">
+         <div class="description">
+             <h3>Just Because means:</h3>
+             <ul>
+                 <li>Sometimes you can feel sad, upset, lonely without reason</li>
+                 <li>Everyone feels like this at some point in their life</li>
+                 <li>Feeling sad "just because" for too long may be a sign of a deeper problem</li>
+                 
+                 </ul>
+             
+             
+         </div>     
+        </div>   
+        
+     <div class="gallery-item">
+        
+        <h2>K is for Kill Myself</h2>
+         <img class="image" src="K.jpg">
+            <div class="description">
+             <h3>Kill Myself means:</h3>
+             
+             <ul>
+                 <li>When someone feels sad or hopeless long enough, they might think killing themselves is the solution</li>
+                 <li><strong>If you or someone feels like hurting themselves, tell an adult immediately!</strong></li>
+                 
+                 </ul>
+             
+             
+         </div>     
+        </div>   
+        
+     <div class="gallery-item">
+        
+        <h2>L is for Lonliness</h2>
+         <img class="image" src="L.jpg">
+         <div class="description">
+            <h3>Lonliness is:</h3>
+             
+             <ul>
+                 <li>Feeling alone</li>
+                 <li>Feeling like nobody understands you or 
+                 what you are going through</li>
+                 
+                 </ul>
+             
+         </div>     
+        </div>       
+        
+     <div class="gallery-item">
+        
+        <h2>M is for Mental Health</h2>
+         <img class="image" src="M.jpg">
+         <div class="description">
+             <h3>Mental Health is:</h3>
+             
+             <ul>
+                 <li>The health of your mind!</li>
+                 <li>How your emotions and behaviors affect your life</li>
+                 
+                 </ul>
+            
+         </div>     
+        </div>   
+        
+     <div class="gallery-item">
+        
+        <h2>N is for Nervous</h2>
+         <img class="image" src="N.jpg">
+         <div class="description">
+             <h3>Nervousness is:</h3>
+             
+             <ul>
+                 <li>When you have to do something you feel uncomfortable
+                 doing</li>
+                 <li>Feels like 'butterflies' in your stomach!</li>
+                 <li>Everyone feels nervous from time to time, but if this feeling lasts a long time, talk to an adult!</li>
+                 
+                 </ul>
+             
+         </div>     
+        </div>   
+        
+     <div class="gallery-item">
+        
+        <h2>O is for OCD</h2>
+         <img class="image" src="O.jpg">
+         <div class="description">
+             <h3>OCD is:</h3>
+             
+             <ul>
+                 <li>Overwhelming urge to repeat a thought or action</li>
+                 <li>Reoccurring and/or unwanted thoughts and actions</li>
+                 
+                 </ul>
+             
+         </div>     
+        </div>   
+        
+     <div class="gallery-item">
+        
+        <h2>P is for Panic</h2>
+         <img class="image" src="P.jpg">
+         <div class="description">
+             <h3>Panic is:</h3>
+             
+             <ul>
+                 <li>Overwhelming fear</li>
+                 <li>Can prevent a person from doing normal daily activities</li>
+                 
+                 </ul>
+             
+         </div>     
+        </div>   
+        
+     <div class="gallery-item">
+        
+        <h2>Q is for Quiet</h2>
+         <img class="image" src="Q.jpg">
+         <div class="description">
+             <h3>Quiet means:</h3>
+             
+             <ul>
+                 <li>Taking time for yourself and your thoughts</li>
+                 <li>Enjoying silence for a period of time</li>
+                 <li>If you notice someone is quiet for an extended length of time, it may be a sign of a deeper issue</li>
+                 
+                 </ul>
+            
+         </div>     
+        </div>   
+        
+     <div class="gallery-item">
+        
+        <h2>R is for Rude</h2>
+         <img class="image" src="R.jpg">
+         <div class="description">
+             <h3>Rudeness is:</h3>
+             
+             <ul>
+                 <li>Saying or doing things that hurt another persons feelings</li>
+                 <li>Being mean on purpose</li>
+                 
+                 </ul>
+             
+         </div>     
+        </div> 
+        
+     <div class="gallery-item">
+        
+        <h2>S is for Suicide Attempt</h2>
+         <img class="image" src="S.jpg">
+         <div class="description">
+             <h3>A Suicide Attempt is:</h3>
+             
+             <ul>
+                 <li>An attempt to take a persons own life</li>
+                 <li>Self harm </li>
+                 <li>If you are thinking about hurting yourself or if
+                 you know someone who is thinking about hurting themselves, tell a trusted adult</li>
+                 
+                 </ul>
+             
+         </div>
+        </div>   
+        
+     <div class="gallery-item">
+
+        <h2>T is for Thoughts</h2>
+         <img class="image" src="T.jpg">
+         <div class="description">
+             <h3>Thoughts are:</h3>
+             
+             <ul>
+                 <li>Either positive or negative things a person thinks about</li>
+                 <li>Excessive negative thoughts can be a sign of a deeper issue, tell a trusted adult if you or someone you know is experiencing this</li>
+                 
+                 </ul>
+             
+         </div>     
+        </div>   
+        
+     <div class="gallery-item">
+        
+        <h2>U is for Untreated</h2>
+         <img class="image" src="U.jpg">
+         <div class="description">
+             <h3>Untreated means:</h3>
+             
+             <ul>
+                 <li>An illness, mental or physical that is not taken care of</li>
+                 <li>Not going to a professional when experiencing mental or physical illness</li>
+                 
+                 </ul>
+             
+         </div>     
+        </div>   
+        
+     <div class="gallery-item">
+        
+             <h2>V is for Violence</h2>
+        <img class="image" src="V.jpg">
+         <div class="description">
+             <h3>Violence is: </h3>
+             
+             <ul>
+             <li> When someone who is upset takes out their anger physically or verbally</li>
+             <li>How someone who is hurt or sad expresses their pain or sadness </li>     
+             </ul>
+             
+         </div>     
+        </div>   
+        
+     <div class="gallery-item">
+        
+             <h2>W is for Warning Signs</h2>
+        <img class="image" src="W.jpg">
+             <div class="description">
+                <h3>Warning Signs are:</h3>
+                 <ul>
+                 <li>Things someone does or says that shows they are thinking about hurting themselves </li>
+                <li>Words or actions that are different than what the person would normally say or do</li>     
+                 
+                 </ul>
+         
+         </div>     
+        </div>   
+        
+     <div class="gallery-item">
+         
+             <h2>X is for eXhaustion</h2>
+        <img class="image" src="X.jpg">
+         <div class="description">
+            <h3>Exhaustion is:</h3>
+             <ul>
+             <li>When someone is too tired to do work or think </li>
+            <li>If someone is constantly exhausted, it may be a sign of a deeper issue. Talk to a trusted adult if you or someone you know is always tired!</li>     
+             
+             </ul>
+         
+        </div>
+        </div>
+     
+     <div class="gallery-item">
+         
+             <h2>Y is for Yelling</h2>
+        <img class="image" src="Y.jpg">
+         <div class="description">
+             <h3>Yelling is:</h3>
+        <ul>
+             <li>When someone uses a tone of voice that is rude and loud </li>
+            <li>People who have been hurt by others sometimes express themselves by yelling</li>
+             
+             </ul>
+             
+        </div>
+        </div> 
+        
+     <div class="gallery-item">
+         
+             <h2>Z is for schiZophrenia</h2>
+        <img class="image" src="Z.jpg">
+         <div class="description">
+            <h3>SchiZophrenia is:</h3>
+             <ul>
+             <li>When a person experiences new reality </li>
+            <li>A change in attention, talk  or behavior that shows the person has lost touch with the real world</li>     
+             </ul>
+             
+        </div>       
+        </div>   
+        
+    </div>
+   
+   <div footer="footer">
+    <img src="Footer.png" style="width: 25%; height: 25%; ">
+    
+    </div> 
+      
+</body>
+</html>
